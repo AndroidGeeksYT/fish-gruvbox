@@ -4,7 +4,7 @@
 # Install
 With [fisherman]
 ```
-fisher install jomik/fish-gruvbox
+fisher install AndroidGeeksYT/fish-gruvbox
 ```
 
 This will expose the function called `theme_gruvbox`.
@@ -13,7 +13,15 @@ The first is the mode, either `light` or `dark`.
 The second is the contrast, `soft`, `medium` or `hard`.
 The defaults are `light` and `medium`.
 
+$ How to Use
+
 To automatically apply this theme, call `theme_gruvbox` from your `config.fish`.
+
+```fish
+theme_gruvbox dark hard # choose your theme light, dark for contrast soft, medium, hard.
+```
+
+# Credits
 
 [gruvbox]: https://github.com/morhetz/gruvbox
 [fish shell]: http://fishshell.com/
