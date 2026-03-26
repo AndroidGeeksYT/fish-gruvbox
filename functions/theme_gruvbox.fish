@@ -1,4 +1,4 @@
-#!/usr/bin/fish
+#!/usr/bin/env fish
 function theme_gruvbox --description 'Apply gruvbox theme'
   set -l mode 'light'
   if test  (count $argv) -gt 0
