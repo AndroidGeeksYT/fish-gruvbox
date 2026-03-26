@@ -12,7 +12,7 @@ fisher install AndroidGeeksYT/fish-gruvbox
 or
 
 ```fish
-git clone https://github.com/AndroidGeeksYT/fish-gruvbox.git && mv fish-gruvbox/functions/theme_gruvbox ~/.config/fish/functions/
+git clone https://github.com/AndroidGeeksYT/fish-gruvbox.git && mv fish-gruvbox/functions/theme_gruvbox.fish ~/.config/fish/functions/
 ```
 
 This will expose the function called `theme_gruvbox`.
