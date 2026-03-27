@@ -55,13 +55,15 @@ rm ~/.termux/colors.properties
 
 # 🙏🏼 Donate or Subscribe
 
-- YouTube:
+- **YouTube:**
 
 <div>
     <img src="https://github.com/AndroidGeeksYT/AndroidGeeksYT/blob/main/assets/img/Android%20Geeks.png"/>
 </div>
 
-- Gcash:
+---
+
+- **Gcash:**
 
 <div>
     <img src="https://github.com/AndroidGeeksYT/AndroidGeeks-Kickstart-Nvim/blob/main/img/donate.jpg"/>
