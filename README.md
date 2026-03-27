@@ -53,6 +53,22 @@ rm ~/.termux/colors.properties
 
 ---
 
+# 🙏🏼 Donate or Subscribe
+
+- YouTube:
+
+<div>
+    <img src="https://github.com/AndroidGeeksYT/AndroidGeeksYT/blob/main/assets/img/Android%20Geeks.png"/>
+</div>
+
+- Gcash:
+
+<div>
+    <img src="https://github.com/AndroidGeeksYT/AndroidGeeks-Kickstart-Nvim/blob/main/img/donate.jpg"/>
+</div>
+
+---
+
 # ❤️Credits
 
 - [gruvbox](https://github.com/morhetz/gruvbox)
