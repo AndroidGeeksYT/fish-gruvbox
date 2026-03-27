@@ -2,7 +2,9 @@
 
 Gruvbox theme plugin for fish shell 🐟🐚
 
-## ⬇️Install
+---
+
+# ⬇️ Install
 
 > [!NOTE]
 > You must have [fisherman](https://github.com/fisherman/fisherman) installed for easy [fish](http://fishshell.com/)
@@ -26,7 +28,9 @@ The first is the mode, either `light` or `dark`.
 The second is the contrast, `soft`, `medium` or `hard`.
 The defaults are `light` and `medium`.
 
-### ⚙️ How to Use
+---
+
+# ⚙️ How to Use
 
 To automatically apply this theme, call `theme_gruvbox` from your `config.fish`.
 
@@ -34,7 +38,9 @@ To automatically apply this theme, call `theme_gruvbox` from your `config.fish`.
 theme_gruvbox dark hard # choose your mode light, dark and for contrast soft, medium, hard
 ```
 
-### 📲 Android / Termux
+---
+
+# 📲 Android / Termux
 
 > [!WARNING]
 > Please do not use [termux-styling](https://github.com/termux/termux-styling) the two colorscheme will be conflicting with each other. In this case we will let the fish shell handle the colorscheme instead of using [termux-styling](https://github.com/termux/termux-styling).
@@ -44,6 +50,8 @@ If you used the [termux-styling](https://github.com/termux/termux-styling) it is
 ```fish
 rm ~/.termux/colors.properties
 ```
+
+---
 
 # ❤️Credits
 
