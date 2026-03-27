@@ -1,15 +1,16 @@
 # fish-gruvbox
-[gruvbox] theme for [fish shell]
+
+gruvbox theme for fish shell
 
 # Install
 
-With [fisherman]
+With fisherman:
 
 ```fish
 fisher install AndroidGeeksYT/fish-gruvbox
 ```
 
-or manual installation
+or manual installation:
 
 ```fish
 git clone https://github.com/AndroidGeeksYT/fish-gruvbox.git && mv fish-gruvbox/functions/theme_gruvbox.fish ~/.config/fish/functions/
