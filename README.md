@@ -4,7 +4,7 @@ Gruvbox theme plugin for fish shell 🐟🐚
 
 ---
 
-# ⬇️ Install
+# 📥 Install
 
 > [!NOTE]
 > You must have [fisherman](https://github.com/fisherman/fisherman) installed for easy [fish](http://fishshell.com/)
@@ -53,6 +53,12 @@ rm ~/.termux/colors.properties
 
 ---
 
+# 🗑️ Uninstall
+
+```fish
+fisher remove AndroidGeeksYT/fish-gruvbox
+```
+
 # 🙏🏼 Donate or Subscribe
 
 - **YouTube:**
@@ -71,7 +77,7 @@ rm ~/.termux/colors.properties
 
 ---
 
-# ❤️Credits
+# ❤️ Credits
 
 - [gruvbox](https://github.com/morhetz/gruvbox)
 - [fish shell](http://fishshell.com/)
