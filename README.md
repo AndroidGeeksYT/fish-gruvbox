@@ -59,6 +59,8 @@ rm ~/.termux/colors.properties
 fisher remove AndroidGeeksYT/fish-gruvbox
 ```
 
+---
+
 # 🙏🏼 Donate or Subscribe
 
 - **YouTube:**
