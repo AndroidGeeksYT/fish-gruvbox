@@ -9,7 +9,7 @@ With [fisherman]
 fisher install AndroidGeeksYT/fish-gruvbox
 ```
 
-or
+or manual installation
 
 ```fish
 git clone https://github.com/AndroidGeeksYT/fish-gruvbox.git && mv fish-gruvbox/functions/theme_gruvbox.fish ~/.config/fish/functions/
@@ -26,11 +26,11 @@ The defaults are `light` and `medium`.
 To automatically apply this theme, call `theme_gruvbox` from your `config.fish`.
 
 ```fish
-theme_gruvbox dark hard # choose your theme light, dark for contrast soft, medium, hard
+theme_gruvbox dark hard # choose your mode light, dark and for contrast soft, medium, hard
 ```
 
 # Credits
 
-[gruvbox]: https://github.com/morhetz/gruvbox
-[fish shell]: http://fishshell.com/
-[fisherman]: https://github.com/fisherman/fisherman
+- [gruvbox](https://github.com/morhetz/gruvbox)
+- [fish shell](http://fishshell.com/)
+- [fisherman](https://github.com/fisherman/fisherman)
